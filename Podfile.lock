@@ -1,0 +1,18 @@
+PODS:
+  - EZSwiftExtensions (1.9)
+  - RazzleDazzle (0.1.5)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - EZSwiftExtensions
+  - RazzleDazzle
+  - SnapKit
+
+SPEC CHECKSUMS:
+  EZSwiftExtensions: ce22bf6fc5c6e7c883fec413300b006e123735d0
+  RazzleDazzle: 0b1b9fc8ceed04bfdd4b3e8182e98ef7edacd1d1
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: 2a1c7aec31b64d8337233cc15e750165167d1ec6
+
+COCOAPODS: 1.1.1
